@@ -1,0 +1,11 @@
+
+NOTE: Make sure to copy images over directly from Halligan! No uploads
+or downloads xoxo
+
+TODO: SATURDAY, FEB 26
+
+- write design doc
+- start image transformer from lab
+
+Thank you to Gustavo for simplifying our chroma conversions, and for
+Mary Joy for helping us catch a tricky size alloc :)
